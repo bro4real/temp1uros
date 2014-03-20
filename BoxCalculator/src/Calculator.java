@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.GridLayout;
 import java.awt.BorderLayout;
-
+// added this comment
 public class Calculator {
 
     // Declare all calculator's components.
