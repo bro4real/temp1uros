@@ -1,0 +1,2 @@
+"Forget about naming conventions, design patterns, or any programming style."
+Fain, Yakov "ES Without the BS", p.98  
