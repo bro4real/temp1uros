@@ -12,7 +12,7 @@ import javax.swing.SwingWorker;
 
 public class NewsReader extends SwingWorker <String, Integer> {
 	
-	static int threadCount;
+	static int threadCount = 1;
 	File fileToDisplay;
 	JTextArea myTextArea;
 	StringBuffer bufferedText;
